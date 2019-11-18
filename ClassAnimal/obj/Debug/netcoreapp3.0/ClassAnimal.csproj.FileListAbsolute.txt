@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/obj/Debug/netcoreapp3.0/ClassAnimal.csprojAssemblyReference.cache
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/obj/Debug/netcoreapp3.0/ClassAnimal.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/obj/Debug/netcoreapp3.0/ClassAnimal.AssemblyInfo.cs
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/bin/Debug/netcoreapp3.0/ClassAnimal
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/bin/Debug/netcoreapp3.0/ClassAnimal.deps.json
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/bin/Debug/netcoreapp3.0/ClassAnimal.runtimeconfig.json
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/bin/Debug/netcoreapp3.0/ClassAnimal.runtimeconfig.dev.json
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/bin/Debug/netcoreapp3.0/ClassAnimal.dll
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/bin/Debug/netcoreapp3.0/ClassAnimal.pdb
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/obj/Debug/netcoreapp3.0/ClassAnimal.dll
+/Users/Britta/Desktop/ClassAnimal/ClassAnimal/ClassAnimal/obj/Debug/netcoreapp3.0/ClassAnimal.pdb
